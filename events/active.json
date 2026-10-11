@@ -1,0 +1,57 @@
+{
+  "slug": "nandagiri-foods-catering-and-events-thrissur",
+  "name": "Nandagiri Foods Catering AND Events",
+  "shortName": "Nandagiri",
+  "descriptor": "Catering & Events",
+  "address": "Ms menon lane, Nellikunnu, Thrissur, Keralam 680005",
+  "area": "Nellikunnu",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680005",
+  "geo": {
+    "lat": 10.5138085,
+    "lng": 76.24907329999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=4816282629979730553",
+  "phone": "+91 94461 43557",
+  "whatsapp": "919446143557",
+  "hours": "Open 11 am – 5 pm · all days",
+  "opens": "11:00",
+  "closes": "17:00",
+  "rating": 5,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "name": "udhayan unnikrishnan",
+      "rating": 5,
+      "quote": "I recently had the pleasure of enjoying a traditional vegetarian Sadhya, and it was nothing short of extraordinary. The variety of dishes – each carefully prepared and thoughtfully served – captured the essence of Kerala’s rich culinary heritage."
+    },
+    {
+      "name": "Geetha Menon",
+      "rating": 5,
+      "quote": "Attended a sadya just now. Every curry & payasam was superb. Staff were also repeatedly offering food."
+    },
+    {
+      "name": "Kesavadas K",
+      "rating": 5,
+      "quote": "A Taste to Remember! Every dish was a burst of flavor and elegance. The team’s warmth, care, and flawless service made our event feel truly special. An unforgettable culinary experience..highly recommended!"
+    },
+    {
+      "name": "Retheesh Ammayath",
+      "rating": 5,
+      "quote": "Very nice & delicious.. They are professionals. They takes marriage and other functions orders."
+    },
+    {
+      "name": "Ranjith Rajeevan",
+      "rating": 5,
+      "quote": "One of the best catering available at Thrissur.."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://nandagiri-foods-catering-and-events.vercel.app"
+}
